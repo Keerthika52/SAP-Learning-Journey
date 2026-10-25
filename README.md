@@ -36,9 +36,9 @@ and preparing for career opportunities in Japan.
 
 ### Phase 1: SAP Fundamentals
 
-- [ ] Introduction to SAP
-- [ ] What is ERP?
-- [ ] Understanding SAP software
+- [x] Introduction to SAP
+- [x] What is ERP?
+- [x] Understanding SAP software
 - [ ] Introduction to SAP ABAP
 - [ ] SAP BTP ABAP Trial account setup
 
